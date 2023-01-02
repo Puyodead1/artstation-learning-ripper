@@ -1,0 +1,6 @@
+- 1.0.1:
+  - Added Key Vault system
+  - Added support for single courses that aren't part of a series
+  
+- 1.0.2:
+  - Bug fix for saving keys to key vault
